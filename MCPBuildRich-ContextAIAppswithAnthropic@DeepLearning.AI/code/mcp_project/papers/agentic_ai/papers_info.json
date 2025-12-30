@@ -1,0 +1,14 @@
+{
+  "2507.01376v1": {
+    "title": "AI Agents and Agentic AI-Navigating a Plethora of Concepts for Future Manufacturing",
+    "authors": [
+      "Yinwang Ren",
+      "Yangyang Liu",
+      "Tang Ji",
+      "Xun Xu"
+    ],
+    "summary": "AI agents are autonomous systems designed to perceive, reason, and act within\ndynamic environments. With the rapid advancements in generative AI (GenAI),\nlarge language models (LLMs) and multimodal large language models (MLLMs) have\nsignificantly improved AI agents' capabilities in semantic comprehension,\ncomplex reasoning, and autonomous decision-making. At the same time, the rise\nof Agentic AI highlights adaptability and goal-directed autonomy in dynamic and\ncomplex environments. LLMs-based AI Agents (LLM-Agents), MLLMs-based AI Agents\n(MLLM-Agents), and Agentic AI contribute to expanding AI's capabilities in\ninformation processing, environmental perception, and autonomous\ndecision-making, opening new avenues for smart manufacturing. However, the\ndefinitions, capability boundaries, and practical applications of these\nemerging AI paradigms in smart manufacturing remain unclear. To address this\ngap, this study systematically reviews the evolution of AI and AI agent\ntechnologies, examines the core concepts and technological advancements of\nLLM-Agents, MLLM-Agents, and Agentic AI, and explores their potential\napplications in and integration into manufacturing, along with the potential\nchallenges they may face.",
+    "pdf_url": "http://arxiv.org/pdf/2507.01376v1",
+    "published": "2025-07-02"
+  }
+}
